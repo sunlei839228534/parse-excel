@@ -13,6 +13,8 @@
     "koa": "^2.13.4",
     "koa-body": "^4.2.0",
     "koa-router": "^10.1.1",
-    "node-xlsx": "^0.21.0"
+    "mysql2": "^2.3.3",
+    "node-xlsx": "^0.21.0",
+    "sequelize": "^6.19.0"
   }
 }
